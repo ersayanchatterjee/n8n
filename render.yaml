@@ -47,9 +47,9 @@ services:
 
       # 🌐 Optional but good practice
       - key: WEBHOOK_URL
-        value: https://n8n-service-r4j9.onrender.com/
+        value: https://n8n-service-rk8p.onrender.com/
       - key: N8N_HOST
-        value: n8n-service-r4j9.onrender.com
+        value: n8n-service-rk8p.onrender.com
 
 databases:
   - name: n8n-db
